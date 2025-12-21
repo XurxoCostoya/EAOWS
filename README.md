@@ -1,4 +1,4 @@
-# EWAVES-CLIM
+# EAWAVES-CLIM
 This repository contains the code used for processing the data from the database "European Atlantic Wave Data under Historical and Future Climate Scenarios (EAWAVES-CLIM)", which is hosted in the CEDA archive.
 
 Currently, only one file is included (netcdf_to_sp2.py), which is described below:
